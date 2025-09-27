@@ -15,7 +15,7 @@ Georgie is a very intelligent and loving cat
 
 My cat's video
 
-![Georgie-Ann in the backyard.mp4]
+!Georgie-Ann in the backyard.mp4
 
 ##### View the GitHub Repository
 https://github.com/nagoLula/my-cat-Georgie
