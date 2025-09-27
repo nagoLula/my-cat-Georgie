@@ -7,7 +7,13 @@ Welocme to my first GitHub project! This project is dedicated to my adorable cat
 ### Project Parpouse
 This project is the demostration of using the markdown skills
 
-!My cat Georgie 
-
 ### About Georgie
 Georgie is a very intelligent and loving cat
+
+#### My cat's photo
+\![Georgie-Ann](https://github.com/user-attachments/assets/1880149d-7184-4ebd-8151-58b3803d0024)
+
+[Download the video]
+
+##### View the GitHub Repository
+https://github.com/nagoLula/my-cat-Georgie
